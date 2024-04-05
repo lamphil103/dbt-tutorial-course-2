@@ -1,0 +1,4 @@
+/dbt-env
+.user.yml
+/logs
+logs
